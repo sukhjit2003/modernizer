@@ -1,0 +1,79 @@
+/* Add custom styles here */
+body {
+background-color: aliceblue;
+}
+main {
+    height: 850px;
+}
+.m-1{
+    color: gray;
+}
+.m-2 {
+    background-color: rgba(255, 0, 0, 0.716);
+    color: white;
+    border-color:  rgba(255, 0, 0, 0.716) ;
+}
+.m-3{
+    background-color: white;
+    border-color: rgba(128, 128, 128, 0.46);
+    color: gray;
+    }
+    .p-1{
+        color: gray;
+    }
+    .p-2{
+        color: gray;
+    }
+    .p-3{
+        color: gray;
+    }
+    .mh-1{
+        color: rgba(0, 0, 0, 0.733);
+    }
+    .mh-2{
+        color: rgba(0, 0, 0, 0.733);
+    }
+    .card1 {
+        width: 300px;
+        border-color: white;
+        padding: 10px;
+        margin: 50px;
+        background-color: rgba(255, 255, 255, 0.413);
+        
+    }
+    .card2 {
+        width: 300px;
+        border-color: white;
+        padding: 10px;
+        margin: 50px;
+        background-color: rgba(255, 255, 255, 0.413);
+
+      
+    }
+    .card3 {
+        width: 300px;
+        border-color: white;
+        padding: 10px;
+        margin: 50px;
+        background-color: rgba(255, 255, 255, 0.413);
+    }
+
+    .para-1 {
+       
+       padding: 30px;
+       width: 50%;
+       position: absolute;
+    }
+    
+    .row {
+        margin-left: 600px;
+        margin-bottom: 600px;
+    }
+    .f-1 {
+        color: white;
+        text-decoration: none;
+    }
+    .nav-item {
+margin-left: 200px;
+    }
+   
